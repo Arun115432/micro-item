@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: ArunKumar G
+Build-Jdk: 18.0.2.1
+Implementation-Title: micro-item-service
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.ahasan
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/micro-item-service
+Created-By: Maven Integration for Eclipse
+
